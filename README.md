@@ -11,6 +11,8 @@ A working design for a college computer science curriculum in the GenAI era.
 
 This repository is documentation only. There is no code and no test suite.
 
+New here? Read [`PRIMER.md`](PRIMER.md) first: a five-minute introduction written for faculty.
+
 | Path | Holds |
 |---|---|
 | `docs/brainstorm/cs-curriculum-genai-era/overview.md` | The brainstorm summary: problem, vision, core concepts, structural patterns, and progress through the remaining brainstorm sections |
